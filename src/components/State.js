@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 
+
+// Component carousel to preview images ! 
 export default class State extends Component {
   constructor(props) {
     super(props);

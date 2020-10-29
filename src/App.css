@@ -1,6 +1,13 @@
 .App {
   text-align: center;
 }
+.img {
+  width: 200px;
+}
+body {
+  height: 500px;
+  background-color: white;
+}
 
 .App-logo {
   height: 40vmin;
